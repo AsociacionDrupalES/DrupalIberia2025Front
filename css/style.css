@@ -36,3 +36,25 @@ img.aed {
 .small {
     font-size: 1rem;
 }
+
+.button-area {
+    text-align: center;
+    width: 80%;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.button-announcement {
+    margin-bottom: 1em;
+}
+
+
+.button {
+    float: right;
+    background: #000;
+    color: #fff;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
